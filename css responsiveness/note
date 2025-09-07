@@ -1,0 +1,30 @@
+MEDIA QUERIES
+The view port unit:
+viewportwidth(vw)
+viewportheight(vh)
+percentage(relative to parents)
+
+responsive image
+Ensuring the image scale without taking it off
+
+responsive typography
+it uses em, rem or clamp
+
+
+transfom:
+allows you to change the shape and size of an element without disturbing thE NORMAL FLOW
+
+transition:
+animation uses at key frame  to create continuous or repeated effect
+
+animation
+we use key frame to create
+
+overlay: a 
+
+drop down-menu
+
+To-Do
+Create a landing page
+tablet(768px)
+phone(480px)
